@@ -1,3 +1,0 @@
-Python is a really cool programming language.
-
-Today, Python is the most widely used programming language.
