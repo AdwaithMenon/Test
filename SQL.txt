@@ -1,0 +1,3 @@
+SQL Stands for Structured Query Language.
+
+Examples of SQL Database Management Systems are : MySQL,Oracle,Sqlite etc.
