@@ -4,4 +4,4 @@ z=x%y
 if (int(z)==0):
     print(x,'is a perfect square.')
 else :
-    print(x,'is not a perfect square.')    
+    print(x,'is not a perfect sq')
